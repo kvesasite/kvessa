@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url("soft-beautiful-abstract-background-you-can-use-this-background-for-your-content-like-as-technology-video-gaming-promotion-card-banner-sports-education-presentation-website-anymore-vector.jpg");
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.text{
+    background-color: rgba(255, 255, 255, 0.308);
+    font-size: large;
+    width: fit-content;
+    height: fit-content;
+    border: 20px dotted rgba(255, 86, 114, 0.486);
+
+}
+.bigtext{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 300px;
+}
+.img-group{
+    display: flex;
+    justify-content: space-between;
+}
+.text1{
+    font-size: x-large;
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    background-color: rgba(255, 255, 255, 0.226);
+    color: white;
+}
+marquee{
+    color: white;
+}
